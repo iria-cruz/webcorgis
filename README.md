@@ -11,3 +11,7 @@ A nosa páxina _web_ mostra información sobre varios tipos de **corgis**. Somos
 1. Paticas pequenas.
 2. Orellas puntiagudas.
 3. Big butt.
+
+## Información extra 🐕
+
+[A wikipedia dos Corgis](https://es.wikipedia.org/wiki/Corgi_gal%C3%A9s_de_Pembroke)
