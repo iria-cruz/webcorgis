@@ -51,8 +51,3 @@ class ladra{
 ---
 ![Banner](banner.svg)
 
-![alt](banner)
-
-
-
-[banner]:banner.svg
