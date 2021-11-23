@@ -27,8 +27,9 @@ A nosa páxina _web_ mostra información sobre varios tipos de **corgis**. Somos
 |0%|50%|100%|
 
 ## Calendario de vaciñación pra os nosos queridos Corgis
--[x]A las 6 semanas: Primovacunación o primera vacuna.
--[]A las 8 semanas: Polivalente.
--[]A las 12 semanas: Recordatorio de la Polivalente.
--[]A las 16 semanas: Rabia.
--[]Anualmente: Recordatorio de la Polivalente y de la Rabia.
+
+- [x] A las 6 semanas: Primovacunación o primera vacuna.
+- [x] A las 8 semanas: Polivalente.
+- [x] A las 12 semanas: Recordatorio de la Polivalente.
+- [x] A las 16 semanas: Rabia.
+- [ ] Anualmente: Recordatorio de la Polivalente y de la Rabia.
