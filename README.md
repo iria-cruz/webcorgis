@@ -33,3 +33,16 @@ A nosa páxina _web_ mostra información sobre varios tipos de **corgis**. Somos
 - [x] A las 12 semanas: Recordatorio de la Polivalente.
 - [x] A las 16 semanas: Rabia.
 - [ ] Anualmente: Recordatorio de la Polivalente y de la Rabia.
+
+## Programa que ladra
+
+```java
+class ladra{
+    public static void main(String[] args){
+    System.out.println("Guau");
+   }
+}
+
+```
+
+<img width="200px" src="https://user-images.githubusercontent.com/90836460/143010549-dd957c50-11ea-4160-ac0d-8509e7d1711e.png">
