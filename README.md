@@ -19,3 +19,4 @@ A nosa páxina _web_ mostra información sobre varios tipos de **corgis**. Somos
 ## Se che miran desta manera debeslle a túa alma
 
 ![Olliños de cachorro](https://upload.wikimedia.org/wikipedia/commons/f/f1/1Stanley_and_his_%22i_need_a_hug%22_face.jpg)
+![Olliños de cachorro](F:/0-DAM/CONTORNOS/EXERCICIOS/Corgis/puppyeyes.jpg)
